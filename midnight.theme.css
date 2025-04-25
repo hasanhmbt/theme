@@ -11,8 +11,8 @@
 */
 
 /* import theme modules */
-@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
-
+/*@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+*/
 body {
     /* font, change to '' for default discord font */
     --font: 'figtree';
