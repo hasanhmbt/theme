@@ -1336,7 +1336,7 @@ body {
         color: var(--dms-icon-color-after);
     }
 }
-*/
+
 @container body style(--custom-dms-icon: custom) {
     .wrapper__6e9f8[data-list-item-id='guildsnav___home'] > .childWrapper__6e9f8 > svg {
         display: none;
@@ -1397,7 +1397,7 @@ body {
         background: var(--dms-background-color);
     }
 }
-
+*/
 /* top-bar.css */
 body {
     --top-bar-height: 32px;
